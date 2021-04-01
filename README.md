@@ -4,6 +4,8 @@
 
 :book: Also leaning some math stuff.
 
+:mortar_board: Novosibirsk state university student.  
+
 # :books: Favourite books.
 
 * Introduction to Algorithms (Thomas Cormen)
