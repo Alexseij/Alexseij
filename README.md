@@ -2,9 +2,7 @@
 
 :snail: I'm software engineer , love do some stuff with different technologies and reverse engineering with created cool things. 
 
-:book: Also leaning some math stuff.
-
-:mortar_board: Novosibirsk state university student.  
+:book: Also leaning some math stuff. 
 
 # :books: Favourite books.
 
