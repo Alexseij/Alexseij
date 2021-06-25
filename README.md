@@ -4,13 +4,6 @@
 
 :book: Also leaning some math stuff. 
 
-# :books: Favourite books.
-
-* Introduction to Algorithms (Thomas Cormen)
-* The C Programming Language
-* Effective java
-* Java complete reference
-
 # :wheelchair: Stats.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexseij)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexseij)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexseij)](https://github.com/anuraghazra/github-readme-stats)
